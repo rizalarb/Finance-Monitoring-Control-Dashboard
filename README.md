@@ -7,18 +7,15 @@ This project focuses on **automating financial reporting workflows** and **enhan
 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](<!-- ADD_DASHBOARD_LINK -->)
 
 ---
-
 ### 📊 Dashboard Overview
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CF_SUMMARY.PNG" width="260"/><br><sub>Cash Flow Summary</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CASH IN.PNG" width="260"/><br><sub>Cash In Dashboard</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CASH OUT.png" width="260"/><br><sub>Cash Out Dashboard</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CF_SUMMARY.png" width="260"/><br><sub>Cash Flow Summary</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CASH%20IN.png" width="260"/><br><sub>Cash In Dashboard</sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/rizalarb/Finance-Monitoring-Control-Dashboard/master/CASH-OUT.png" width="260"/><br><sub>Cash Out Dashboard</sub></td>
 </tr>
 </table>
-
-
 ---
 
 **Role / Tools:** Data Analyst Intern — `Excel`  
