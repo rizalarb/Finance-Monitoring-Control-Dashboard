@@ -12,16 +12,16 @@ This project focuses on **automating financial reporting workflows** and **enhan
 
 <table>
 <tr>
-<td align="center"><img src="./CF_SUMMARY.PNG" width="260"/><br><sub>Cash Flow Summary</sub></td>
-<td align="center"><img src="./CASH IN.PNG" width="260"/><br><sub>Cash In Dashboard</sub></td>
-<td align="center"><img src="./CASH OUT.PNG" width="260"/><br><sub>Cash Out Dashboard</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Finance-Monitoring-Control-Dashboard/CF_SUMMARY.PNG" width="260"/><br><sub>Cash Flow Summary</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Finance-Monitoring-Control-Dashboard/CASH IN.PNG" width="260"/><br><sub>Cash In Dashboard</sub></td>
+<td align="center"><img src="https://github.com/rizalarb/Finance-Monitoring-Control-Dashboard/CASH OUT.PNG" width="260"/><br><sub>Cash Out Dashboard</sub></td>
 </tr>
 </table>
 
 ---
 
-**Role / Tools:** Data Analyst Intern — `Excel (VBA)`, `Power Query`, `Power BI`  
-**Impact:** Streamlined financial workflows, improved reporting accuracy, and enabled faster budget variance analysis.
+**Role / Tools:** Data Analyst Intern — `Excel`  
+**Impact:** Streamlined financial workflows, improved reporting accuracy, and enabled faster reporting analysis.
 
 ---
 
