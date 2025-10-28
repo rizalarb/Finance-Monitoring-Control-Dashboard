@@ -1,2 +1,39 @@
-# ExcleDashboard_FinancialStatement
-Here my learning and project on building financial report and dashboard
+## Finance Monitoring & Control Dashboard – PT Wira Cipta Perkasa (2025)
+
+A financial monitoring system developed during my internship at **PT Wira Cipta Perkasa (WCP)** — an Indonesian company specializing in **engineering, procurement, and fabrication services** for the oil & gas industry, including **wellhead control panels, pressure vessels, and subsea equipment**, with a strong commitment to safety and reliability.
+
+This project focuses on **automating financial reporting workflows** and **enhancing visibility of budget execution** through integrated dashboards for the FAT (Finance, Accounting & Tax) department.
+
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](<!-- ADD_DASHBOARD_LINK -->)
+
+---
+
+### 📊 Dashboard Overview
+
+<table>
+<tr>
+<td align="center"><img src="./CF_SUMMARY.PNG" width="260"/><br><sub>Cash Flow Summary</sub></td>
+<td align="center"><img src="./CASH IN.PNG" width="260"/><br><sub>Cash In Dashboard</sub></td>
+<td align="center"><img src="./CASH OUT.PNG" width="260"/><br><sub>Cash Out Dashboard</sub></td>
+</tr>
+</table>
+
+---
+
+**Role / Tools:** Data Analyst Intern — `Excel (VBA)`, `Power Query`, `Power BI`  
+**Impact:** Streamlined financial workflows, improved reporting accuracy, and enabled faster budget variance analysis.
+
+---
+
+<details open>
+<summary>🔍 Read more</summary>
+
+- **Streamlined financial reporting workflows** by automating data aggregation and reducing manual compilation tasks, improving efficiency and accuracy for the finance team.  
+- **Designed a Budgeting vs Cash Flow dashboard** integrating weekly actual, forecast, and budget data for faster variance analysis and financial control.  
+- **Upgraded the reporting process for PGE Cluster IV Aceh** by converting manual reports into a structured CoA-based system, enhancing visibility and timeliness in budget monitoring.  
+- Developed automated **summary generation and weekly review systems** for the FAT department.  
+- Integrated datasets across **AR, AP, TAX, and Budget** for unified reporting and performance tracking.
+
+</details>
+
+[Back to Top](#finance-monitoring--control-dashboard--pt-wira-cipta-perkasa-2025)
