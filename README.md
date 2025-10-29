@@ -4,7 +4,7 @@ A financial monitoring system developed during my internship at **PT Wira Cipta 
 
 This project focuses on **automating financial reporting workflows** and **enhancing visibility of budget execution** through integrated dashboards for the FAT (Finance, Accounting & Tax) department.
 
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](<!-- ADD_DASHBOARD_LINK -->)
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue)](https://github.com/rizalarb/Finance-Monitoring-Control-Dashboard/blob/master/CF%20Form_PGE%20ACEH%20PHASE%202%20V2.xlsx)
 
 ---
 ### 📊 Dashboard Overview
